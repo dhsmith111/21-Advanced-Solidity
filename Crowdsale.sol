@@ -39,7 +39,7 @@ contract PupperCoinSaleDeployer {
 
     address public tokenSaleAddress;
     address public tokenAddress;
-
+    
     constructor(
         // constructor parameters
         string memory name,
@@ -61,4 +61,5 @@ contract PupperCoinSaleDeployer {
         token.addMinter(tokenSaleAddress);
         token.renounceMinter();
     }
+
 }
