@@ -4,6 +4,10 @@
 * PupperCoin Crowdsale Deployer and Sale solidty contract code: [Crowdsale.sol](./Crowdsale.sol)
 * PupperCoin solidty contract code: [PupperCoin.sol](./PupperCoin.sol)
 
+##### How to Use:
+* PupperCoinSale Contract Address: [0x49c104c3087f3fF50d6e933e647EFECc5F1A1A72](https://kovan.etherscan.io/address/0x49c104c3087f3ff50d6e933e647efecc5f1a1a72)  
+1. Using your preferred wallet with a funded ETH account on the Kovan test network, send ETH to the PupperCoinSale contract address.
+2. Crowdsale seeks to raise 300 ETH in 24 weeks from initiation.
 
 ##### Testing:
 1. Sending 1 ETH to purchase PupperCoin from MyCrypto:  
